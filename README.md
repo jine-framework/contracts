@@ -1,1 +1,3 @@
-# contracts
+# Contracts
+
+Jine framework contracts
