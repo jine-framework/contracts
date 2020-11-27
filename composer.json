@@ -1,0 +1,26 @@
+{
+  "name": "marussia/contracts",
+  "description": "Jine contracts",
+  "license": "MIT",
+  "keywords": [
+    "contracts"
+  ],
+  "authors": [
+    {
+      "name": "Mikhail Ilinsky",
+      "email": "mail@milinsky.ru"
+    }
+  ],
+  "support": {
+    "docs": "https://jine.io/docs/contracts/"
+  },
+  "require": {
+    "php": "^8.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Jine\\Contracts\\": "src/"
+    }
+  }
+}
